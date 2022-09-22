@@ -1,5 +1,5 @@
 
-# :hearts: Projeto
+# :purple_heart: Projeto
 
   RocketQ é um WebApp desenvolvido na 6ª semana da NLW com o objetivo de criar salas de bate-papo onde outras pessoas possam fazer perguntas anônimas.
 <br><br>
@@ -36,4 +36,4 @@
 
 ##
 
-<p align ="center">Feito por mim com :hearts: junto com a Rocketseat :rocket: </p>
+<p align ="center">Feito por mim com :purple_heart: junto com a Rocketseat :rocket: </p>
